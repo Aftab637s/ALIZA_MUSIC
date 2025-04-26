@@ -11,7 +11,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+❤️‍🩹+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝗞𝗜𝗡𝗚+𝗢𝗙+𝗗𝗘𝗩𝗜𝗟+❤️‍🩹+🍁"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"><b>𝐓ᴇᴀᴍ 𝗔ʟɪᴢᴀ 𝐁ᴏᴛs</b></h1>
-<p align="center"><a href="https://ll_l_sukoon_ll"><img src="https://files.catbox.moe/287v6t.jpg" width="500"></a></p>
+<p align="center"><a href="https://t.me/Aliza_ansari_music_bot"><img src="https://files.catbox.moe/287v6t.jpg" width="500"></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -39,7 +39,7 @@
 [![Contributors](https://contrib.rocks/image?repo=TEAMPURVI/PURVI_MUSIC)](https://github.com/TEAMPURVI/PURVIMUSIC/graphs/contributors)
 
 ### Contact :
-<a href="https://t.me/ll_ALPHA_BABY_lll"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/ll_l_sukoon_ll"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 
 <a href="https://instagram.com/careless__02"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
