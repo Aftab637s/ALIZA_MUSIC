@@ -15,7 +15,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALIZA_MUSIC&repo=ALIZA_MUSIC&theme=flag-india)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aftab637s&repo=ALIZA_MUSIC&theme=flag-india)
 
 [![GIF](https://github.com/Aftab637s/ALIZA_MUSIC/blob/main/Aftab637s.gif)](https://github.com/Aftab637s)
    [![ALPHA](https://github-stats-alpha.vercel.app/api?username=Aftab637s "𝗗𝗘𝗩𝗜𝗟")](https://github-stats-alpha.vercel.app/api?username=Aftab637s "𝗗𝗘𝗩𝗜𝗟")
