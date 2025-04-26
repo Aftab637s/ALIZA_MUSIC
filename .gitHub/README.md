@@ -17,8 +17,8 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TEAMPURVI&repo=PURVI_MUSIC&theme=flag-india)
 
-[![GIF](https://github.com/TEAMPURVI/PURVI_MUSIC/blob/main/TEAMPURVI.gif)](https://github.com/TEAMPURVI)
-   [![ALPHA](https://github-stats-alpha.vercel.app/api?username=TEAMPURVI "RAUSHAN")](https://github-stats-alpha.vercel.app/api?username=Aftab637s "𝗗𝗘𝗩𝗜𝗟")
+[![GIF](https://github.com/TEAMPURVI/PURVI_MUSIC/blob/main/TEAMPURVI.gif)](https://github.com/Aftab637s)
+   [![ALPHA](https://github-stats-alpha.vercel.app/api?username=Aftab637s "RAUSHAN")](https://github-stats-alpha.vercel.app/api?username=Aftab637s "𝗗𝗘𝗩𝗜𝗟")
 
 
 </p>
